@@ -1,4 +1,4 @@
-package com.majid2851.personalwallet.presentation.util
+package com.majid2851.responsive_compose
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext

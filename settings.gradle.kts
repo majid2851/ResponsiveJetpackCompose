@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ResponsiveJetpackCompose"
 include(":app")
- 
+include(":responsive-compose")
