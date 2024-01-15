@@ -20,18 +20,18 @@ very simple just use sdp and ssp instead of sp and sd
 
 
 
-dependencyResolutionManagement
- {
+dependencyResolutionManagement{
+
 	repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
 	repositories {
 		mavenCentral()
 		maven { url 'https://jitpack.io' }
 	}
+ 
 }
 
 
-dependencies
-{
+dependencies{
 
   implementation 'com.github.majid2851:ResponsiveJetpackCompose:Tag'
   
