@@ -13,7 +13,7 @@ here is an responsive UI example
 
 
 
-very simple just use sdp and ssp instead of sp and sd
+very simple just use sdp and ssp instead of sd and sp
 
 -------------------------------------------------------------------------
 
