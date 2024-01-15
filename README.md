@@ -18,7 +18,7 @@ very simple just use sdp and ssp instead of sp and sd
 -------------------------------------------------------------------------
 
 
-
+----Gradle------
 
 	dependencyResolutionManagement{
 
@@ -29,7 +29,8 @@ very simple just use sdp and ssp instead of sp and sd
 		}
  
 	}
-
+ 
+----Dependency-------
 
 	dependencies
 	{
